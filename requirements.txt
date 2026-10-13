@@ -1,0 +1,8 @@
+python-sat
+clingo>=5.7
+clingo-dl
+ortools
+z3-solver
+networkx
+matplotlib
+numpy
