@@ -117,3 +117,8 @@ python figures/make_tables.py      # scaling table of the encodings
 ```
 
 The generated files are written to `figures/output/`.
+
+## License
+
+Code: MIT (see `LICENSE`).
+Data, model and results: CC BY 4.0 (see `LICENSE-DATA`).
